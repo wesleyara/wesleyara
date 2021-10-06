@@ -1,7 +1,7 @@
 Olá, eu me chamo Wesley Araújo!
 
 - 🔎 Atualmente eu trabalho com pesquisa acadêmica.
-- 📚 Eu estou estudando sobre JavaScript, HTML e CSS.
+- 📚 Eu estou estudando sobre JavaScript, HTML, CSS e Python.
 - 🤔 Sou iniciante na área de programação.
 - 👨‍🎓 Sou graduado em matemática pela UPE.
 - 💡 Estou em constante aprendizado e em busca de conhecimento.
