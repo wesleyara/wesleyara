@@ -5,6 +5,7 @@ Olá, eu me chamo Wesley Araújo!
 - 🤔 Sou iniciante na área de programação.
 - 👨‍🎓 Sou graduado em matemática pela UPE.
 - 💡 Estou em constante aprendizado e em busca de conhecimento.
+- 🏃‍♂️ Em busca de oportunidades como desenvolvedor.
 
 <div>
   <a href="https://github.com/wesleyara">
