@@ -21,8 +21,6 @@ Email para contato: wesleyara.contato@gmail.com
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wesley-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Wesley-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
   
-<div>
   ![Snake animation](https://github.com/wesleyara/wesleyara/blob/output/github-contribution-grid-snake.svg)
-  </div>
+</div>
