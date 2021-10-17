@@ -7,6 +7,8 @@ Olá, eu me chamo Wesley Araújo!
 - 💡 Estou em constante aprendizado e em busca de conhecimento.
 - 🏃‍♂️ Em busca de oportunidades como desenvolvedor.
 
+Email para contato: wesleyara.contato@gmail.com
+
 <div>
   <a href="https://github.com/wesleyara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
