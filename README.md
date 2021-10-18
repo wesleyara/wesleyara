@@ -1,4 +1,4 @@
-Olá, eu me chamo Wesley Araújo!
+### Olá, eu me chamo Wesley Araújo!
 
 - 🔎 Atualmente eu trabalho com pesquisa acadêmica.
 - 📚 Eu estou estudando sobre JavaScript, HTML, CSS e Python.
