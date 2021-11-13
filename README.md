@@ -28,9 +28,13 @@
   <img target="_blank" align="center" alt="Wesley-NODE" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-PUPPE" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-PY" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=wesleyara&theme=chartreuse-dark&line=17bf1a&point=70e000" width="870px" />
+
+
   
   ![Snake animation](https://github.com/wesleyara/wesleyara/blob/output/github-contribution-grid-snake.svg)
-</div>
 
  ## Total de visitas no meu perfil <br>
  <p align="center"> 
