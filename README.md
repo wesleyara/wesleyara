@@ -28,7 +28,8 @@
   <img target="_blank" align="center" alt="Wesley-NODE" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-PUPPE" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-FIRE" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> 
-  <img target="_blank" align="center" alt="Wesley-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img target="_blank" align="center" alt="Wesley-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img target="_blank" align="center" alt="Wesley-LATEX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"> 
   <img target="_blank" align="center" alt="Wesley-PY" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br>
