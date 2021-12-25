@@ -33,6 +33,19 @@
   <img target="_blank" align="center" alt="Wesley-PY" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br>
+
+### Ferramentas:
+<div style="display: inline_block">
+  <img target="_blank" align="center" alt="Wesley-NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img target="_blank" align="center" alt="Wesley-NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img target="_blank" align="center" alt="Wesley-VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img target="_blank" align="center" alt="Wesley-ESLINT" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+  <img target="_blank" align="center" alt="Wesley-PRETTIER" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+  <img target="_blank" align="center" alt="Wesley-NOTION" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img target="_blank" align="center" alt="Wesley-WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
+<br>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=wesleyara&theme=chartreuse-dark&line=17bf1a&point=70e000" width="870px" />
 
 
