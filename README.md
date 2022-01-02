@@ -31,7 +31,6 @@
   <img target="_blank" align="center" alt="Wesley-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img target="_blank" align="center" alt="Wesley-LATEX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"> 
-  <img target="_blank" align="center" alt="Wesley-PY" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br>
 
