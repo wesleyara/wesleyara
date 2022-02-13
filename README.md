@@ -2,7 +2,6 @@
 
 - 🔎 Atualmente eu trabalho com pesquisa acadêmica.
 - 📚 Eu estou estudando sobre JavaScript, HTML, CSS, Firebase, React, Sass e TypeScript.
-- 🤔 Sou iniciante na área de programação.
 - 👨‍🎓 Sou graduado em matemática pela UPE.
 - 💡 Estou em constante aprendizado e em busca de conhecimento.
 - 🏃‍♂️ Em busca de oportunidades como desenvolvedor.
