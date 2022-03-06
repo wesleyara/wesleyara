@@ -56,7 +56,6 @@
   <img target="_blank" align="center" alt="Wesley-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img target="_blank" align="center" alt="Wesley-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-NEXT" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img target="_blank" align="center" alt="Wesley-SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
 </div>
 <br>
 
