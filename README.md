@@ -1,7 +1,7 @@
 ### Olá, eu me chamo Wesley Araújo!
 
 - 🔎 Atualmente estou em busca de oportunidades como desenvolvedor.
-- 📚 Eu estou estudando sobre JavaScript, HTML, CSS, Firebase, React, Sass e TypeScript.
+- 📚 Eu estou estudando sobre React, TypeScript e Node.
 - 👨‍🎓 Sou graduado em matemática pela UPE.
 - 💡 Estou em constante aprendizado e em busca de conhecimento.
 
