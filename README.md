@@ -32,6 +32,7 @@
   <img target="_blank" align="center" alt="Wesley-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img target="_blank" align="center" alt="Wesley-NEXT" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
+  <img target="_blank" align="center" alt="Wesley-JEST" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-LATEX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"> 
 </div>
 <br>
@@ -48,6 +49,8 @@
   <img target="_blank" align="center" alt="Wesley-PRETTIER" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
   <img target="_blank" align="center" alt="Wesley-NOTION" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img target="_blank" align="center" alt="Wesley-DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img target="_blank" align="center" alt="Wesley-YARN" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 </div>
 <br>
 
