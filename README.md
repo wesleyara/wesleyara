@@ -60,8 +60,6 @@
   <img target="_blank" align="center" alt="Wesley-NEXT" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </div>
 <br>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=wesleyara&theme=chartreuse-dark&line=17bf1a&point=70e000" width="870px" />
   
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyara" width="700px"/>
