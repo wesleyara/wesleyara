@@ -1,6 +1,5 @@
 ### Olá, eu me chamo Wesley Araújo!
 
-- 🔎 Em busca de oportunidades como desenvolvedor.
 - 📚 Estudando sobre React, TypeScript e Node.
 - 👨‍🎓 Graduado em matemática pela UPE.
 - 💡 Em constante aprendizado e em busca de conhecimento.
@@ -14,7 +13,6 @@
 
 <div>
   <a href="https://github.com/wesleyara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyara&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </div>
@@ -43,7 +41,6 @@
   <img target="_blank" align="center" alt="Wesley-VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-ESLINT" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-PRETTIER" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
-  <img target="_blank" align="center" alt="Wesley-NOTION" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-YARN" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
@@ -57,10 +54,6 @@
   <img target="_blank" align="center" alt="Wesley-NEXT" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </div>
 <br>
-  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyara" width="700px"/>
-</div>
 
  ## Total de visitas no meu perfil <br>
  <p align="center"> 
