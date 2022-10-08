@@ -29,6 +29,8 @@
   <img target="_blank" align="center" alt="Wesley-JEST" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-EXPRESS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
   <img target="_blank" align="center" alt="Wesley-LATEX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"> 
+  <img target="_blank" align="center" alt="Wesley-TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
+  <img target="_blank" align="center" alt="Wesley-SHELL" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 <br>
 
@@ -45,15 +47,17 @@
   <img target="_blank" align="center" alt="Wesley-WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-YARN" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+  <img target="_blank" align="center" alt="Wesley-AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img target="_blank" align="center" alt="Wesley-HEROKU" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
 <br>
 
+
 ### Estou aprendendo:
 <div style="display: inline_block">
-  <img target="_blank" align="center" alt="Wesley-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img target="_blank" align="center" alt="Wesley-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img target="_blank" align="center" alt="Wesley-NEXT" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img target="_blank" align="center" alt="Wesley-GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> 
+  <img target="_blank" align="center" alt="Wesley-SHELL" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> 
+  <img target="_blank" align="center" alt="Wesley-AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 <br>
 
