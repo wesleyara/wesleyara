@@ -3,6 +3,7 @@
 - 📚 Estudando sobre React, TypeScript e Node.
 - 👨‍🎓 Graduado em matemática pela UPE.
 - 💡 Em constante aprendizado e em busca de conhecimento.
+- 🚀 Todo dia é dia para ir mais além!
 
 ### Contatos e redes sociais:
 <div style="display: inline_block">
