@@ -1,9 +1,11 @@
 ### Olá, eu me chamo Wesley Araújo!
 
-- 📚 Estudando sobre React, TypeScript e Node.
-- 👨‍🎓 Graduado em matemática pela UPE.
-- 💡 Em constante aprendizado e em busca de conhecimento.
-- 🚀 Todo dia é dia para ir mais além!
+- Software engineer.
+- Graduado em matemática.
+- Desenvolvedor; API; Web apps; Desktop apps.
+- Sede de evolução em conhecimento. 
+- Em busca do melhor e mais inovador.
+- Todo dia é dia para ir mais além!
 
 ### Contatos e redes sociais:
 <div style="display: inline_block">
