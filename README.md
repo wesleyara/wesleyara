@@ -1,11 +1,12 @@
 ### Olá, eu me chamo Wesley Araújo!
 
-- Software engineer.
-- Graduado em matemática.
-- Desenvolvedor; API; Web apps; Desktop apps.
-- Sede de evolução em conhecimento. 
-- Em busca do melhor e mais inovador.
-- Todo dia é dia para ir mais além!
+- Software engineer;
+- Graduado em matemática;
+- Estudante de Análise e Desenvolvimento de Sistemas;
+- Desenvolvedor; API; Web apps; Desktop apps;
+- Sede de evolução em conhecimento;
+- Em busca do melhor e mais inovador;
+- Todo dia é dia para ir além.
 
 ### Contatos e redes sociais:
 <div style="display: inline_block">
